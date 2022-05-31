@@ -27,4 +27,6 @@ Given the head of a linked list, remove the nth node from the end of the list an
 - 0 <= Node.val <= 100
 - 1 <= n <= sz
 
+[LeetCode](https://leetcode.com/submissions/detail/711366276/)
+
 [![Run on Repl.it](https://repl.it/badge/github/oscharko/JS-LeetCode-9-Remove-Nth-Node-From-End-of-List)](https://replit.com/@oscharko/JS-LeetCode-9-Remove-Nth-Node-From-End-of-List)
